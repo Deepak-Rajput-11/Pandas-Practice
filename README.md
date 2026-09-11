@@ -19,9 +19,25 @@ The goal is to build practical skills for working with structured data using Pyt
 - Using `head()` and `tail()`
 - Hands-on practice with a product dataset
 
-### Day 2 - Coming Next
+### Day 2 - Working with CSV Files ✅
 
-- Working with CSV files
+- Understanding CSV files
+- Reading CSV files using `read_csv()`
+- Understanding CSV headers
+- Using `header=None`
+- Assigning custom column names with `names`
+- Inspecting datasets using `info()`
+- Understanding non-null values and missing data
+- Statistical summaries using `describe()`
+- Hands-on practice with student and employee datasets
+
+### Day 3 - Coming Next
+
+- Selecting and filtering data
+
+## Progress
+
+**Day 2/7 Completed ✅**
 
 ## Tools
 
