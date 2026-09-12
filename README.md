@@ -31,13 +31,20 @@ The goal is to build practical skills for working with structured data using Pyt
 - Statistical summaries using `describe()`
 - Hands-on practice with student and employee datasets
 
-### Day 3 - Coming Next
+### Day 3 - Selecting, Filtering & Sorting
 
-- Selecting and filtering data
+- Filtered rows using comparison conditions
+- Combined multiple conditions using `&` (AND) and `|` (OR)
+- Selected specific columns from filtered data
+- Learned `.loc[]` for selecting data using labels and conditions
+- Learned `.iloc[]` for selecting data using integer positions
+- Used slicing with `.iloc[]`
+- Sorted DataFrames using `sort_values()`
+- Practiced combining filtering, column selection, and sorting
 
 ## Progress
 
-**Day 2/7 Completed ✅**
+**Day 3/7 Completed ✅**
 
 ## Tools
 
@@ -45,7 +52,3 @@ The goal is to build practical skills for working with structured data using Pyt
 - Pandas
 - VS Code
 - Git & GitHub
-
-## Progress
-
-**Day 1/7 Completed ✅**
