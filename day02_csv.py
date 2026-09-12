@@ -2,10 +2,10 @@ import pandas as pd
 
 df = pd.read_csv("students.csv")
 
-# if csv didn't have any header then we use this
+# Use this when the CSV file doesn't have a header
 # df = pd.read_csv("students.csv", header=None)
 
-# It create our own header (column names)
+# Use this to provide our own column names
 # df = pd.read_csv("students.csv", header=None, names=["Name", "Age", "Marks"])
 
 print(df)
