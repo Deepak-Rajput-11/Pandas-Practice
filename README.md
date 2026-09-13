@@ -42,9 +42,21 @@ The goal is to build practical skills for working with structured data using Pyt
 - Sorted DataFrames using `sort_values()`
 - Practiced combining filtering, column selection, and sorting
 
+### Day 4 - Data Cleaning
+
+- Identified missing values using `isnull()` and `isnull().sum()`
+- Learned how Pandas represents missing data using `NaN`
+- Removed rows containing missing values using `dropna()`
+- Filled missing numerical values using `fillna()` and the column mean
+- Detected duplicate rows using `duplicated()`
+- Counted duplicates using `duplicated().sum()`
+- Removed duplicate rows using `drop_duplicates()`
+- Learned why duplicates should be handled before calculating statistics such as the mean
+- Verified the dataset after cleaning for remaining missing values and duplicates
+
 ## Progress
 
-**Day 3/7 Completed ✅**
+**Day 4/7 Completed ✅**
 
 ## Tools
 
