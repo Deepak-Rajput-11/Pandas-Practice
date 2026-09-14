@@ -1,0 +1,11 @@
+Product,Category,Price,Quantity
+Laptop,Electronics,55000,2
+Mouse,Electronics,700,10
+Chair,Furniture,4500,4
+Keyboard,Electronics,1500,6
+Desk,Furniture,8000,3
+Headphones,Electronics,2500,5
+Chair,Furniture,4500,4
+Monitor,Electronics,12000,2
+Desk,Furniture,,2
+Webcam,Electronics,3000,

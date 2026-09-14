@@ -66,9 +66,23 @@ The goal is to build practical skills for working with structured data using Pyt
 - Used `agg()` to perform multiple aggregate calculations
 - Performed aggregation on multiple columns
 
+### Day 6 - Practical Data Analysis
+
+- Loaded and inspected a real-style CSV dataset
+- Checked DataFrame shape and structure
+- Identified missing values and duplicate rows
+- Removed duplicate records using `drop_duplicates()`
+- Filled missing numerical values using `fillna()` and column mean
+- Verified data after cleaning
+- Sorted products by Price using `sort_values()`
+- Grouped data by Category using `groupby()`
+- Calculated average Price for each Category
+- Created a calculated `Total_Value` column using Price × Quantity
+- Practiced combining concepts learned from previous Pandas days
+
 ## Progress
 
-**Day 5/7 Completed ✅**
+**Day 6/7 Completed ✅**
 
 ## Tools
 
