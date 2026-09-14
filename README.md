@@ -54,9 +54,21 @@ The goal is to build practical skills for working with structured data using Pyt
 - Learned why duplicates should be handled before calculating statistics such as the mean
 - Verified the dataset after cleaning for remaining missing values and duplicates
 
+### Day 5 - Columns, Calculations & GroupBy
+
+- Added new columns to a DataFrame
+- Created calculated columns using existing data
+- Rounded numerical values using `round()`
+- Removed columns using `drop()`
+- Learned vectorized calculations without writing loops
+- Grouped data using `groupby()`
+- Calculated group statistics using `mean()`, `min()`, and `max()`
+- Used `agg()` to perform multiple aggregate calculations
+- Performed aggregation on multiple columns
+
 ## Progress
 
-**Day 4/7 Completed ✅**
+**Day 5/7 Completed ✅**
 
 ## Tools
 

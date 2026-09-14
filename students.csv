@@ -1,6 +1,6 @@
-Name,Age,Marks
-Deepak,21,85
-Rahul,20,90
-Aman,22,78
-Priya,20,92
-Rohit,23,74
+Name,Age,Marks,Course
+Deepak,21,85,BCA
+Rahul,20,90,BCA
+Aman,22,78,BBA
+Priya,20,92,BCA
+Rohit,23,74,BBA
