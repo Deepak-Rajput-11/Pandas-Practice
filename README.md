@@ -31,7 +31,7 @@ The goal is to build practical skills for working with structured data using Pyt
 - Statistical summaries using `describe()`
 - Hands-on practice with student and employee datasets
 
-### Day 3 - Selecting, Filtering & Sorting
+### Day 3 - Selecting, Filtering & Sorting ✅
 
 - Filtered rows using comparison conditions
 - Combined multiple conditions using `&` (AND) and `|` (OR)
@@ -42,7 +42,7 @@ The goal is to build practical skills for working with structured data using Pyt
 - Sorted DataFrames using `sort_values()`
 - Practiced combining filtering, column selection, and sorting
 
-### Day 4 - Data Cleaning
+### Day 4 - Data Cleaning ✅
 
 - Identified missing values using `isnull()` and `isnull().sum()`
 - Learned how Pandas represents missing data using `NaN`
@@ -54,7 +54,7 @@ The goal is to build practical skills for working with structured data using Pyt
 - Learned why duplicates should be handled before calculating statistics such as the mean
 - Verified the dataset after cleaning for remaining missing values and duplicates
 
-### Day 5 - Columns, Calculations & GroupBy
+### Day 5 - Columns, Calculations & GroupBy ✅
 
 - Added new columns to a DataFrame
 - Created calculated columns using existing data
@@ -66,7 +66,7 @@ The goal is to build practical skills for working with structured data using Pyt
 - Used `agg()` to perform multiple aggregate calculations
 - Performed aggregation on multiple columns
 
-### Day 6 - Practical Data Analysis
+### Day 6 - Practical Data Analysis ✅
 
 - Loaded and inspected a real-style CSV dataset
 - Checked DataFrame shape and structure
@@ -80,9 +80,24 @@ The goal is to build practical skills for working with structured data using Pyt
 - Created a calculated `Total_Value` column using Price × Quantity
 - Practiced combining concepts learned from previous Pandas days
 
+### Day 7 - Final Revision & Practice ✅
+
+- Revised column selection and filtering
+- Practiced filtering using single and multiple conditions
+- Revised `.loc[]` and `.iloc[]`
+- Practiced sorting and DataFrame selection
+- Revised missing-value handling using `isnull()` and `fillna()`
+- Revised duplicate detection and removal
+- Practiced calculated columns using existing data
+- Revised `groupby()` and multiple aggregations using `agg()`
+- Completed a final practice exercise using the sales dataset
+- Created handwritten Pandas revision notes covering the complete 7-day sprint
+
 ## Progress
 
-**Day 6/7 Completed ✅**
+**7-Day Pandas Learning Sprint Completed ✅**
+
+Completed hands-on practice with data loading, inspection, selection, filtering, cleaning, transformation, grouping, aggregation, and basic data analysis.
 
 ## Tools
 
